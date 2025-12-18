@@ -50,11 +50,17 @@ To build a machine learning model that predicts loan repayment outcomes (`loan_p
 
 ## 📁 Project Structure
 ├── data/
+
 │ ├── train.csv
+
 │ └── test.csv
+
 ├── notebook/
+
 │ └── loan_repayment_prediction.ipynb
+
 ├── submission.csv
+
 
 ### 📌 Key Learnings
 
